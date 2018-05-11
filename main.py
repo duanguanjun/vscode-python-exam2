@@ -1,12 +1,6 @@
 # coding:utf-8
 import requests
 import platform
-# import sys
-
-# reload(sys)
-
-# sys.setdefaultencoding('utf-8')
-
 
 if __name__ == '__main__':
     '''
