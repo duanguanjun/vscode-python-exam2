@@ -25,3 +25,5 @@ if __name__ == '__main__':
     print('haha,python')
 
     print('this is test for git')
+
+    print("next message")
